@@ -1,1 +1,1 @@
-# my_music_collabo
+# Stock Inventory Management
