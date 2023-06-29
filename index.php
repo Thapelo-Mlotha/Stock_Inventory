@@ -48,8 +48,8 @@
         <br>
         
         <input type="submit" value="Login">
-        <a href="admin.php">admin</a>
-        <a href="employee.php">employee</a>
+        <a href="dashboard.php">admin</a>
+        <a href="dashEmployee.php">employee</a>
         
     </form>
 
